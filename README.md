@@ -13,11 +13,7 @@ Become a pro coder
 Build my own web applications
 Learn about data science and machine learning
 Contribute to open source projects
+
 Thanks for stopping by!
 Hope you learned a bit about me! Feel free to reach out if you have any questions or want to collaborate on a project .
-
-Note:
-
-Please replace the bracketed information with your actual details like links to your projects and social media profiles.
-Markdown Language:
 
